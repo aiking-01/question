@@ -1,3 +1,3 @@
 question3256
 これは問題のためのリポジトリ
-"question3256"のために作られたREADMEです。
+"question3256"のために作られたREADMEです
