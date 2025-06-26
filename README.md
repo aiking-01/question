@@ -1,3 +1,1 @@
-question3256
-これは問題のためのリポジトリ
-"question3256"のために作られたREADMEです
+cHJpbnQoYmFzZTY0LmI2NGRlY29kZSgnNDRLRTQ0S0w0NEtFNDRLVCcpLmRlY29kZSgpKQ==
