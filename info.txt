@@ -1,5 +1,5 @@
 ['oowxmessdwyo', 'jzllhozoowoz', 'nncomonlbrov', 'mcohooreoarh', 'jogywroohzlo', 'uyoootjnlbqs', 'oholvjaexido', 'dlgisovzobvy', 'oosyyyuoclzx', 'joofzaluploj', 'egfmlooogork', 'uwvvooaokbqo']
-     ,[[9, 6, 10, 1, 4, 2, 11, 5, 8, 0, 3, 7],
+      [[9, 6, 10, 1, 4, 2, 11, 5, 8, 0, 3, 7],
        [6, 8, 3, 4, 2, 5, 10, 1, 9, 0, 11, 7],
        [0, 5, 6, 2, 7, 1, 4, 3, 11, 9, 10, 8],
        [1, 10, 4, 7, 5, 0, 6, 3, 9, 11, 2, 8],
